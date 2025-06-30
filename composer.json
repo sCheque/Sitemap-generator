@@ -1,0 +1,19 @@
+{
+    "name": "nikolay/sitemap-generator",
+    "description": "Generates sitemap files in XML, CSV and JSON format",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Sitemap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nikolay",
+            "email": "niklenwek@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
