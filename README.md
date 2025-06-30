@@ -5,7 +5,9 @@
 
 # Установка
 Через Packagist:
+```
 composer require sCheque/sitemap-generator
+```
 
  Быстрый пример использования
  ```php
