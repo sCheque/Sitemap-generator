@@ -1,5 +1,5 @@
 {
-    "name": "nikolay/sitemap-generator",
+    "name": "scheque/sitemap-generator",
     "description": "Generates sitemap files in XML, CSV and JSON format",
     "type": "library",
     "autoload": {
